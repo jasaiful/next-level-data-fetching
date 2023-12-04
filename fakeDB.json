@@ -1,0 +1,40 @@
+{
+    "posts":[
+        {
+          "id": 1,
+          "title": "Exploring Nature's only Beauty",
+          "description": "Discover the wonders of nature through breathtaking landscapes and serene environments. From towering mountains to tranquil lakes, immerse yourself in the beauty of our planet.",
+          "likes_count": 7999
+        },
+        {
+          "id": 2,
+          "title": "The Art of Cooking",
+          "description": "Delve into the world of culinary arts, exploring diverse recipes, cooking techniques, and the joy of creating delicious dishes that tantalize your taste buds.",
+          "likes_count": 999
+        },
+        {
+          "id": 3,
+          "title": "Mindfulness Meditation",
+          "description": "Embark on a journey of self-discovery and inner peace through mindfulness meditation. Learn techniques to calm your mind and find tranquility in the present moment.",
+          "likes_count": 5999
+        },
+        {
+          "id": 4,
+          "title": "Space Exploration: Beyond Boundaries",
+          "description": "Unravel the mysteries of the cosmos as we venture into the vast expanse of space. Explore celestial bodies, cosmic phenomena, and humanity's quest for understanding the universe.",
+          "likes_count": 2599
+        },
+        {
+          "id": 5,
+          "title": "Fitness & Wellness",
+          "description": "Achieve optimal health and wellness with fitness routines, nutritional tips, and holistic approaches to living a balanced lifestyle that nurtures both body and mind.",
+          "likes_count": 1750
+        },
+        {
+          "id": 6,
+          "title": "Photography: Capturing Moments",
+          "description": "Immerse yourself in the art of photography, capturing fleeting moments and preserving memories. Learn techniques, tips, and tricks to master the craft.",
+          "likes_count": 2000
+        }
+      ]      
+}
